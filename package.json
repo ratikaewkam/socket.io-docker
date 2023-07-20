@@ -1,0 +1,23 @@
+{
+  "name": "socket.io-docker",
+  "version": "1.0.0",
+  "description": "Build a chat app with Socket.IO, Node.js, and Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratikaewkam/socket.io-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratikaewkam/socket.io-docker/issues"
+  },
+  "homepage": "https://github.com/ratikaewkam/socket.io-docker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1"
+  }
+}
