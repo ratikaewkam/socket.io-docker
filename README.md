@@ -1,12 +1,11 @@
 # socket.io-docker
 Build a chat app with Socket.IO, Node.js, and Docker
 
-## Install Express
+## Installation
 ```bash
 npm install express@4
 ```
 
-## Install Socket.IO
 ```bash
 npm install socket.io
 ```
